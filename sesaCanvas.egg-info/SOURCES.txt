@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+sesaCanvas.egg-info/PKG-INFO
+sesaCanvas.egg-info/SOURCES.txt
+sesaCanvas.egg-info/dependency_links.txt
+sesaCanvas.egg-info/requires.txt
+sesaCanvas.egg-info/top_level.txt
+src/MSW_to_Jet_Reference_Case.py
+src/__main__.py
+src/_chemicals.py
+src/_misc.py
+src/ethanol.py
